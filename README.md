@@ -9,7 +9,7 @@ Currently exploring how **AI**, **augmented reality**, and **custom mobile tools
 ## 🌐 Connect With Me  
 💼 [LinkedIn](https://www.linkedin.com/in/zarabandajose/)  
 📺 [YouTube](https://www.youtube.com/channel/UCsXEZiXNJ0r-inP-6_PKTzQ)  
-🎥 [TikTok](https://www.tiktok.com/@jozzer182tk)
+🎥 [TikTok](https://www.tiktok.com/@jozzerdev)
 
 ---
 
@@ -30,7 +30,7 @@ Currently exploring how **AI**, **augmented reality**, and **custom mobile tools
 ---
 
 ## 🔭 Current Focus  
-- 🎯 Building a [custom Android keyboard](https://github.com/jozzer182/keyboard-tab-project) for developers  
+- 🎯 Testing agent mode an IDEs ()
 - 🤖 Experimenting with **AI-powered text-to-speech tools**  
 - ✨ Creating educational content on **Flutter, Kotlin, and Swift**  
 - 🌱 Growing my GitHub portfolio with real-world multiplatform apps  
